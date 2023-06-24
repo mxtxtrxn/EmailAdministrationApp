@@ -1,4 +1,4 @@
-# EmailAdministrationApp
+# Email Administration Application
  Email Administration Application using Java
 
 Problem: You're an IT support administrator specialist and are charged with the task of creating email account for new hires.
